@@ -1,6 +1,6 @@
 class Color:
     def __init__(self, color):
-        self._color = color         #Encapsulamos con _ antes del argumento
+        self._color = color         #Encapsulamos con _ antes del argumentosss github
 
     @property                       #metodo get para recuperar el atributo de color
     def color(self):
